@@ -8,5 +8,9 @@ para
 
 Por motivos de segurança, o github não faz upload de arquivos .env
 
+Rodar composer install na raiz do projeto
 
-Acessar pela URL (caminho projjeto)/public
+Github não faz upload da pasta vendor
+
+
+Acessar pela URL (caminho projeto)/public
