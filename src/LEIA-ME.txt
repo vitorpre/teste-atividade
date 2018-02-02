@@ -1,0 +1,12 @@
+renomear .env na raiz do projeto
+
+de
+.env.remover-esse-comentario
+
+para
+.env
+
+Por motivos de segurança, o github não faz upload de arquivos .env
+
+
+Acessar pela URL (caminho projjeto)/public

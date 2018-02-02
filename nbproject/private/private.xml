@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp7/htdocs/teste-duosystem/app/Http/Controllers/AtividadeController.php</file>
+            <file>file:/C:/xampp7/htdocs/teste-duosystem/app/Http/Requests/salvarAtividade.php</file>
+            <file>file:/C:/xampp7/htdocs/teste-duosystem/routes/web.php</file>
+            <file>file:/C:/xampp7/htdocs/teste-duosystem/.env</file>
+            <file>file:/C:/xampp7/htdocs/teste-duosystem/resources/views/atividade/listar_atividade.blade.php</file>
+            <file>file:/C:/xampp7/htdocs/teste-duosystem/app/Atividade.php</file>
+            <file>file:/C:/xampp7/htdocs/teste-duosystem/resources/views/atividade/editar_atividade.blade.php</file>
+            <file>file:/C:/xampp7/htdocs/teste-duosystem/app/AtividadeStatus.php</file>
+            <file>file:/C:/xampp7/htdocs/teste-duosystem/resources/views/atividade/criar_atividade.blade.php</file>
+            <file>file:/C:/xampp7/htdocs/teste-duosystem/public/js/atividade/cadastrar_atividade.js</file>
+            <file>file:/C:/xampp7/htdocs/teste-duosystem/resources/views/atividade/formulario_atividade.blade.php</file>
+            <file>file:/C:/xampp7/htdocs/teste-duosystem/resources/views/layouts/master.blade.php</file>
+        </group>
+    </open-files>
+</project-private>
